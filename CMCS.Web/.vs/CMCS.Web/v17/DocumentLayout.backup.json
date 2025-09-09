@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ttsim\\Documents\\GitHub\\CMCS-POE\\CMCS.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD67FA78-1C14-44FC-ACD2-94F65C454713}|CMCS.Web\\CMCS.Web.csproj|c:\\users\\ttsim\\documents\\github\\cmcs-poe\\cmcs.web\\cmcs.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD67FA78-1C14-44FC-ACD2-94F65C454713}|CMCS.Web\\CMCS.Web.csproj|solutionrelative:cmcs.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD67FA78-1C14-44FC-ACD2-94F65C454713}|CMCS.Web\\CMCS.Web.csproj|c:\\users\\ttsim\\documents\\github\\cmcs-poe\\cmcs.web\\cmcs.web\\pages\\coordinator\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD67FA78-1C14-44FC-ACD2-94F65C454713}|CMCS.Web\\CMCS.Web.csproj|solutionrelative:cmcs.web\\pages\\coordinator\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD67FA78-1C14-44FC-ACD2-94F65C454713}|CMCS.Web\\CMCS.Web.csproj|c:\\users\\ttsim\\documents\\github\\cmcs-poe\\cmcs.web\\cmcs.web\\pages\\lecturer\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD67FA78-1C14-44FC-ACD2-94F65C454713}|CMCS.Web\\CMCS.Web.csproj|solutionrelative:cmcs.web\\pages\\lecturer\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD67FA78-1C14-44FC-ACD2-94F65C454713}|CMCS.Web\\CMCS.Web.csproj|c:\\users\\ttsim\\documents\\github\\cmcs-poe\\cmcs.web\\cmcs.web\\pages\\manager\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD67FA78-1C14-44FC-ACD2-94F65C454713}|CMCS.Web\\CMCS.Web.csproj|solutionrelative:cmcs.web\\pages\\manager\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ttsim\\Documents\\GitHub\\CMCS-POE\\CMCS.Web\\CMCS.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CMCS.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ttsim\\Documents\\GitHub\\CMCS-POE\\CMCS.Web\\CMCS.Web\\Pages\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "CMCS.Web\\Pages\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T16:57:52.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ttsim\\Documents\\GitHub\\CMCS-POE\\CMCS.Web\\CMCS.Web\\Pages\\Manager\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "CMCS.Web\\Pages\\Manager\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ttsim\\Documents\\GitHub\\CMCS-POE\\CMCS.Web\\CMCS.Web\\Pages\\Manager\\Dashboard.cshtml",
+              "RelativeToolTip": "CMCS.Web\\Pages\\Manager\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T16:44:08.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubmitClaim.cshtml",
+              "DocumentMoniker": "C:\\Users\\ttsim\\Documents\\GitHub\\CMCS-POE\\CMCS.Web\\CMCS.Web\\Pages\\Lecturer\\SubmitClaim.cshtml",
+              "RelativeDocumentMoniker": "CMCS.Web\\Pages\\Lecturer\\SubmitClaim.cshtml",
+              "ToolTip": "C:\\Users\\ttsim\\Documents\\GitHub\\CMCS-POE\\CMCS.Web\\CMCS.Web\\Pages\\Lecturer\\SubmitClaim.cshtml",
+              "RelativeToolTip": "CMCS.Web\\Pages\\Lecturer\\SubmitClaim.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T16:44:04.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ttsim\\Documents\\GitHub\\CMCS-POE\\CMCS.Web\\CMCS.Web\\Pages\\Coordinator\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "CMCS.Web\\Pages\\Coordinator\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ttsim\\Documents\\GitHub\\CMCS-POE\\CMCS.Web\\CMCS.Web\\Pages\\Coordinator\\Dashboard.cshtml",
+              "RelativeToolTip": "CMCS.Web\\Pages\\Coordinator\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T16:44:03.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

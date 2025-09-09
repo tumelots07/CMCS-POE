@@ -1,0 +1,37 @@
+﻿@page
+@model CMCS_POE.Pages.Lecturer.SubmitClaimModel
+@{
+    ViewData["Title"] = "Submit Claim";
+}
+
+<h2>Submit Monthly Claim</h2>
+
+<form>
+    <div>
+        <label for="month">Month</label>
+        <select id="month" name="month">
+            <option>January</option>
+            <option>February</option>
+            <option>March</option>
+            <!-- Add all months -->
+        </select>
+    </div>
+
+    <div>
+        <label for="description">Activity Description</label>
+        <input type="text" id="description" name="description" />
+    </div>
+
+    <div>
+        <label for="hours">Hours Worked</label>
+        <input type="number" id="hours" name="hours" />
+    </div>
+
+    <div>
+        <label for="document">Upload Supporting Document</label>
+        <input type="file" id="document" name="document" />
+    </div>
+
+    <button type="button">Submit Claim</button>
+</form>
+
